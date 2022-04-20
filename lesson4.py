@@ -1,10 +1,10 @@
-print("Введите первую точку")
+print("Введите первую ")
 
 x1 = float(input('X: '))
 
 y1 = float(input('Y: '))
 
-print("\nВведите вторую точку")
+print("\nВведите вторую ")
 
 x2 = float(input('X: '))
 
